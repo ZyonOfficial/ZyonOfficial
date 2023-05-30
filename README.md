@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zyon
+- i code Minecraft, hack clients etc
+- I make discord bots with python
+- 
